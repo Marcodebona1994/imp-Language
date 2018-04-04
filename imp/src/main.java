@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class main {
     public static void main(String[] args) {
-        String fileName = "/home/marco/IdeaProjects/imp/src/input.txt";
+        String fileName = "/home/marco/IdeaProjects/imp-Language/imp/src/input.txt";
         FileInputStream fis = null;
         try {
             // Open the input file stream
