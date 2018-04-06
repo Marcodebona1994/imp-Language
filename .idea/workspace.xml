@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28d4d114-da29-4d92-9c55-5088b84fb07b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/imp/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/imp/src/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="28d4d114-da29-4d92-9c55-5088b84fb07b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imp/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
@@ -22,6 +20,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imp/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="841">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -38,6 +45,7 @@
         <option value="$PROJECT_DIR$/imp/gen/impBaseVisitor.java" />
         <option value="$PROJECT_DIR$/imp/src/input.txt" />
         <option value="$PROJECT_DIR$/imp/src/main.java" />
+        <option value="$PROJECT_DIR$/imp/.gitignore" />
       </list>
     </option>
   </component>
@@ -64,11 +72,6 @@
             <path>
               <item name="imp-Language" type="b2602c69:ProjectViewProjectNode" />
               <item name="imp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imp-Language" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imp" type="462c0819:PsiDirectoryNode" />
-              <item name="gen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="imp-Language" type="b2602c69:ProjectViewProjectNode" />
@@ -264,6 +267,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imp/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>
