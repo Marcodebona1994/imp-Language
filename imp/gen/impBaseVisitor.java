@@ -171,7 +171,6 @@ public class impBaseVisitor<T> extends AbstractParseTreeVisitor<T> implements im
 	 * {@link #visitChildren} on {@code ctx}.</p>
 	 */
 	@Override public T visitLexp(impParser.LexpContext ctx) {
-		//String temp=ctx.getText();
 		String x=null;
 		switch (ctx.getChild(0).toString()){
 			case "_": return (T)"_"; //chiedere

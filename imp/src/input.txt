@@ -1,1 +1,7 @@
-[a,5]
+pop(_);
+top(ciao);
+top(_);
+push(_,_);
+top(pop(push(a,ab.cd.ef)));
+push(a.b,ab.cd.ef);
+cons(a.b,c.d);
